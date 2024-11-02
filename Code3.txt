@@ -1,0 +1,7 @@
+git add Code3.txt
+
+git status
+
+git commit -m "Added Code3.txt file"
+
+git push origin main
